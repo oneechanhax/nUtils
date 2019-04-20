@@ -120,5 +120,4 @@ int main(int argc, const char* argv[]) {
     }
 
     std::stack recursive_pathing;
-
 }
